@@ -66,7 +66,7 @@ function Header() {
         <div className='search-bar' onClick={handleSearchBarClick}>
           <div className='search-bar-text'>Anywhere</div>
           <div className='search-bar-text'>Anyweek</div>
-          <div className='search-bar-text2'>Any Guests</div>
+          <div className='search-bar-text2'>Add Guests</div>
           <div className='search-icon-div'>
             <SearchRoundedIcon className='search-icon'/>
           </div>
